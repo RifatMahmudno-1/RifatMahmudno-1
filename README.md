@@ -7,7 +7,7 @@
 
 
 - List of my websites:
-  - %md<a href="https://t-t-t-r.netlify.app/" target="_blank">Tic-Tac-Toe</a>
+  - <a href="https://t-t-t-r.netlify.app/" target="_blank">Tic-Tac-Toe</a>
   - <a href="https://r-budget.netlify.app/" target="_blank">Budgety</a>
   - <a href="https://just-try.netlify.app/" target="_blank">HCJ details</a>
   - <a href="https://s-p-s.netlify.app/" target="_blank">Stone-Paper-Scizor</a>
@@ -16,6 +16,9 @@
 
 
 -Thanks for your visit.
+
+[Tic-Tac-Toe](https://t-t-t-r.netlify.app/){:target="_blank"}
+<a href="https://t-t-t-r.netlify.app/" target="_blank">Tic-Tac-Toe</a>
 <!---
 RifatMahmudno-1/RifatMahmudno-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
