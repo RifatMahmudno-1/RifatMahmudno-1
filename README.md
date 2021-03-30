@@ -14,6 +14,7 @@
   - <a href="https://rifatpractice.netlify.app/">Mr. Rifat</a>
   - <a href="https://pig-game-rifat.netlify.app/">Pig Game</a>
   - <a href="https://discord.com/oauth2/authorize?client_id=812537560030117928&permissions=8&scope=bot">Add discord bot in your server.</a>
+  - <a href="https://r-snake.netlify.app">Snake</a>
 
 
 -Thanks for your visit.
