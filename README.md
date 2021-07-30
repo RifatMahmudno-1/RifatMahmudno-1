@@ -13,7 +13,8 @@
   - <a href="https://pig-game-rifat.netlify.app/">Pig Game</a>
   - <a href="https://r-snake.netlify.app">Snake</a>
   - <a href="https://express-note.rifatno1.repl.co/">Unicorn[My node website]</a>
-  - <a href="https://watch-anime.rifatno1.repl.co/">Watch Anime</a>
+  - <a href="https://ani-me.netlify.app">Watch Anime</a>
+  - <a href="https://anime-waifu.netlify.app">Watch Anime</a>
 - Others
   - <a href="https://discord.com/oauth2/authorize?client_id=812537560030117928&permissions=8&scope=bot">Add discord bot in your server.</a>
   - <a href="https://github.com/RifatMahmudno-1/video-player">HTML5 video player</a>
