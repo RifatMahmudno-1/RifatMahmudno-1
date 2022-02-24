@@ -14,6 +14,6 @@
   - <a href="https://discord.com/oauth2/authorize?client_id=812537560030117928&permissions=8&scope=bot">Add discord bot in your server.</a>
   - <a href="https://github.com/RifatMahmudno-1/video-player">HTML5 video player</a>
 
--I've done lots of other works. But they are private.
+- I've done lots of other works. But they are private.
 
--Thanks for your visit.
+- Thanks for your visit.
