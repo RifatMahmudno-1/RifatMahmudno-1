@@ -107,10 +107,6 @@ I'm a passionate **Full Stack Web Developer** dedicated to crafting modern, scal
 
 ### ⭐ Thanks for visiting! ⭐
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-_"First, solve the problem. Then, write the code."_ — **John Johnson**
-
 <sub>Last updated: December 2025</sub>
 
 </div>
