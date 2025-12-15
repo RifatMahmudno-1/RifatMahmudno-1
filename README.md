@@ -13,7 +13,7 @@
   <a href="https://discord.com/channels/Rifat#1141">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://rifatmahmud.vercel.app">
+  <a href="https://rifatmahmud.vercel.app/posts/My%20Websites">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -91,7 +91,7 @@ I'm a passionate **Full Stack Web Developer** dedicated to crafting modern, scal
 <a href="https://discord.com/channels/Rifat#1141">
   <img src="https://img.shields.io/badge/Discord-Chat_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://rifatmahmud.vercel.app">
+<a href="https://rifatmahmud.vercel.app/posts/My%20Websites">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
